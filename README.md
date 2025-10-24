@@ -17,8 +17,9 @@ Give input speed in any of these units and it will be converted to all the other
 ```
 git clone git@github.com:helmiikonen/speed-converter.git
 ```
-- Navigate to the root directory of the project and type the following command:
+- Navigate to the root directory of the project and type the following commands:
 ```
+npm install
 npm run dev
 ```
 - Open your browser at ```localhost:5173```
