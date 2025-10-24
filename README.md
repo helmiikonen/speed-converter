@@ -13,7 +13,8 @@ Give input speed in any of these units and it will be converted to all the other
 ### How to run the application locally
 
 - Make sure you have Git and Node installed
-- Clone the project to your local repository using the following command:
+- On your command line terminal, navigate to the directory where you want to clone the project
+- Clone the project using the following command:
 ```
 git clone git@github.com:helmiikonen/speed-converter.git
 ```
@@ -22,4 +23,4 @@ git clone git@github.com:helmiikonen/speed-converter.git
 npm install
 npm run dev
 ```
-- Open your browser at ```localhost:5173```
+- Open your browser at ```localhost:5173``` (the app will start on port 5173 by default, but you can check your terminal to make sure)
