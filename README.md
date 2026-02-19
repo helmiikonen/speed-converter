@@ -10,6 +10,8 @@ Currently available units are:
 
 Give input speed in any of these units and it will be converted to all the other units.
 
+This app is deployed on Firebase and can be found here: https://speedconverter.web.app/
+
 ### How to run the application locally
 
 - Make sure you have Git and Node installed
